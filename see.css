@@ -99,6 +99,9 @@ body {
   transition: background-color 0.9s;
   transition: color 1.2;
 }
+li{
+    padding 5px;
+}
 @media (max-width:1200px){
   .container {
     max-width: 970px;
