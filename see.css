@@ -100,7 +100,7 @@ body {
   transition: color 1.2;
 }
 li{
-    padding 5px;
+  padding: 5px;
 }
 @media (max-width:1200px){
   .container {
